@@ -1,0 +1,12 @@
+*~
+bazel-*
+**/__pycache__
+**/.ipynb_checkpoints/
+**/*.swp
+**/dist/
+**/build/
+**/*.egg-info/
+.DS_Store
+website/www/
+website/node_modules/
+.vscode/
